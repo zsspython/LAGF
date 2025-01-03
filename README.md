@@ -1,8 +1,7 @@
 # LAGF
 LC/MS data non-targeted screening tools
 =======
-...
-“The code will be uploaded after acceptance of the manuscript."
+The LAGF algorithm workflow is shown in the file "example.inpynb"
 
 ### Requirements
 - Python >= 3.8.2
@@ -20,12 +19,3 @@ The list below is the version of Python dependencies used when developing the al
 -scipy==1.4.1
 -tqdm==4.45.0
 -tqdm_joblib==0.0.3
-
-
-### Install
-
-
-### Using
-
-
-
